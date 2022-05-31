@@ -1,5 +1,7 @@
 # Frontend Mentor - Interactive rating component
 
+[Live site](https://maxdeb1.github.io/interactive-rating-component-main/)
+
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
